@@ -19,6 +19,7 @@ Typically, a database design project starts with requirements. First, I analyze 
 * A Host (when listing a car) provides information such as – license plate number, issuing country, state, photos of the car, location of the car, year, make, model, transmission, odometer, owner’s photo, owner’s date of birth, details of car availability, car description and car features.
 * A guest can search for a car based on relevance, price, distance, instant booking, delivery, vehicle type, vehicle make, features, category, vehicle years, vehicle colors, transmission and distance included. The guest can also mention the location, date and time (duration) for when the car is needed.
 * Guests could select area using the map feature available on the website. You should translate that into the Zip codes the cars are available in.
-* The guest can leave reviews for the car after the trip  The guest can select the car from the list/map and make a request to book/book instantly
+* The guest can leave reviews for the car after the trip.
+* The guest can select the car from the list/map and make a request to book/book instantly
 * The system keeps track of the car availability based on what’s booked and the timeframe selected
 * The system should keep track of the transaction details every time a booking is made
